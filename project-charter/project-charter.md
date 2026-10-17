@@ -12,7 +12,7 @@
 
 ## 2. Business Scenario
 
-SecureSure Insurance is a fictional insurance company providing health and motor insurance services. The organization processes customer personal information, policy records, claims documentation and payment-related information.
+SecureSure Insurance is a fictional insurance company providing Life and Disability Insurance services. The organization processes customer personal information, policy records, claims documentation and payment-related information.
 
 The scenario will be used to demonstrate how information security governance and risk management can be implemented in an insurance environment.
 
